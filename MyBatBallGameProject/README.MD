@@ -6,7 +6,7 @@
 
 <ul>
 <li>Use of java swing</li>
-<li>Use of graphics libarary</li>
+<li>Use of graphics library</li>
 <li>OOPS concepts applicable</li>
 </ul>
 
